@@ -48,7 +48,7 @@
 - 🔥 Anonymous matching system
 - ⚡ Scalable MERN architecture  
 
-👉 https://github.com/github-sagarsawra/chatconnect
+👉 https://github.com/sagarsawra/chatconnect
 
 ---
 
@@ -57,7 +57,7 @@
 - 💳 Cart, checkout, filtering
 - ⚡ Clean UI + backend integration  
 
-👉 https://github.com/github-sagarsawra/cottees
+👉 https://github.com/sagarsawra/cottees
 
 ---
 
@@ -66,22 +66,22 @@
 - 📊 Multi-hospital dashboards
 - 🧠 Data-driven decision system  
 
-👉 https://github.com/github-sagarsawra/ai-hospital
+👉 https://github.com/sagarsawra/ai-hospital
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=github-sagarsawra&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sagarsawra&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=github-sagarsawra&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagarsawra&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=github-sagarsawra&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarsawra&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -89,7 +89,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/github-sagarsawra/github-sagarsawra/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/sagarsawra/sagarsawra/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -110,5 +110,5 @@
 ## ⚡ Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=github-sagarsawra&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=sagarsawra&color=blue&style=flat" />
 </p>
