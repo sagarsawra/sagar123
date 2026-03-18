@@ -1,25 +1,42 @@
 <h1 align="center">Hi 👋, I'm Sagar Sawra</h1>
-<h3 align="center">🚀 Full Stack Developer | MERN | Real-time Apps | AI Enthusiast</h3>
+<h3 align="center">🚀 Full Stack Developer | 🤖 AI/ML Enthusiast | 🧪 QA Tester</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Building+ChatConnect+💬;MERN+Stack+Developer;DSA+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;AI+%2F+ML+Explorer;Real-time+App+Builder;QA+Testing+Mindset;Future+Data+Scientist" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🔭 Currently building: **ChatConnect (Omegle Clone with WebRTC)**
-- 🌱 Learning: **System Design, WebRTC, Scalable Backend**
-- 💡 Passion: **Real-time apps & impactful products**
-- ⚡ Goal: **Crack MAANG & build startup-level projects**
+- 🔭 Building: **ChatConnect (Real-time Omegle Clone)**
+- 🤖 Exploring: **AI/ML, Data Science & Intelligent Systems**
+- 🧪 Skilled in: **Manual Testing, QA Concepts, Debugging**
+- 🌱 Learning: **System Design + Scalable Architectures**
+- ⚡ Strength: **Development + AI + Testing mindset combo**
 
 ---
 
 ## 🚀 Tech Stack
 
+### 💻 Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,java,cpp,git,github,vercel,render" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,java,cpp" />
+</p>
+
+### 🤖 AI / ML / Data Science
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+</p>
+
+### 🧪 QA / Testing
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=selenium,postman" />
+</p>
+
+### ⚙️ Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,render" />
 </p>
 
 ---
@@ -27,52 +44,52 @@
 ## 🔥 Featured Projects
 
 ### 💬 ChatConnect (Omegle Clone)
-- 🌐 Real-time video & chat app using **WebRTC + Socket.io**
-- 🔥 Anonymous chat matching system
-- 🚀 Full MERN implementation
+- 🌐 Real-time video + chat (**WebRTC + Socket.io**)
+- 🔥 Anonymous matching system
+- ⚡ Scalable MERN architecture  
 
-👉 Repo: https://github.com/sagarsawra/chatconnect
+👉 https://github.com/github-sagarsawra/chatconnect
 
 ---
 
 ### 👕 Cottees (T-shirt E-commerce)
 - 🛒 Full-stack eCommerce platform
-- 💳 Cart, checkout, product filtering
-- ⚡ Built using MERN stack
+- 💳 Cart, checkout, filtering
+- ⚡ Clean UI + backend integration  
 
-👉 Repo: https://github.com/sagarsawra/cottees
+👉 https://github.com/github-sagarsawra/cottees
 
 ---
 
 ### 🏥 AI Multi Hospital System
-- 🤖 AI-powered hospital management system
-- 📊 Multi-hospital dashboard & analytics
-- 🧠 Smart decision support features
+- 🤖 AI-powered hospital management
+- 📊 Multi-hospital dashboards
+- 🧠 Data-driven decision system  
 
-👉 Repo: https://github.com/sagarsawra/ai-hospital
+👉 https://github.com/github-sagarsawra/ai-hospital
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sagarsawra&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=github-sagarsawra&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagarsawra&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=github-sagarsawra&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarsawra&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=github-sagarsawra&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake Animation
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/sagarsawra/sagarsawra/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/github-sagarsawra/github-sagarsawra/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -83,7 +100,7 @@
   <a href="https://linkedin.com/in/sagar-sawra">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="sagarsawra94@gmail.com">
+  <a href="mailto:sagarsawra94@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
@@ -93,5 +110,5 @@
 ## ⚡ Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sagarsawra&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=github-sagarsawra&color=blue&style=flat" />
 </p>
