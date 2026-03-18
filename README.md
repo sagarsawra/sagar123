@@ -89,7 +89,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/sagarsawra/sagarsawra/blob/output/github-contribution-grid-snake.svg" />
+  <img src="github.com/sagarsawra/sagar123/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
