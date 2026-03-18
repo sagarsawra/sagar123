@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Sagar</h1>
+<h1 align="center">Hi 👋, I'm Sagar Sawra</h1>
 <h3 align="center">🚀 Full Stack Developer | MERN | Real-time Apps | AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Building+ChatConnect+💬;MERN+Stack+Developer;DSA+Enthusiast;Future+MAANG+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Building+ChatConnect+💬;MERN+Stack+Developer;DSA+Enthusiast" />
 </p>
 
 ---
@@ -93,5 +93,5 @@
 ## ⚡ Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=sagarsawra&color=blue&style=flat" />
 </p>
