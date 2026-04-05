@@ -45,26 +45,10 @@ const sagar = {
 
 ## 🔥 Featured Projects
 
-<table align="center">
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/sagarsawra/chatconnect">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sagarsawra&repo=chatconnect&theme=tokyonight&v=2" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/sagarsawra/cottees">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sagarsawra&repo=cottees&theme=tokyonight&v=2" />
-      </a>
-    </td>
-  </tr>
-</table>
+* 💬 **Mailexto** → https://github.com/sagarsawra/mailexto
+* 🏥 **Mediconnect** → https://github.com/sagarsawra/mediconnect
+* 🎥 **Random Connect Spot** → https://github.com/sagarsawra/random-connect-spot
 
-<p align="center">
-  <a href="https://github.com/sagarsawra/ai-hospital">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sagarsawra&repo=ai-hospital&theme=tokyonight&v=2" />
-  </a>
-</p>
 
 ---
 
@@ -79,12 +63,12 @@ const sagar = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sagarsawra&show_icons=true&theme=tokyonight&count_private=true&v=2" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=sagarsawra&theme=tokyonight&v=2" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sagarsawra&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=sagarsawra&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarsawra&layout=compact&theme=tokyonight&v=2" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sagarsawra&layout=compact&theme=tokyonight" />
 </p>
 
 ---
