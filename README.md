@@ -29,19 +29,13 @@ const sagar = {
 
 ## 🚀 Tech Stack
 
-### 💻 Development
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,java,cpp&theme=dark" />
 </p>
 
-### 🤖 AI / ML
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark" />
 </p>
-
-### ⚙️ Tools & Platforms
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vercel,render&theme=dark" />
@@ -53,51 +47,24 @@ const sagar = {
 
 <table align="center">
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">💬 ChatConnect</h3>
-      <p align="center">
-        <a href="https://github.com/sagarsawra/chatconnect">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sagarsawra&repo=chatconnect&theme=tokyonight&hide_border=true&v=2" />
-        </a>
-      </p>
-      <p>
-        🌐 Real-time video + chat via <strong>WebRTC + Socket.io</strong><br/>
-        🔀 Anonymous user matching algorithm<br/>
-        ⚡ Built for low-latency & scalability<br/>
-        🧱 Architecture: Scalable MERN Stack
-      </p>
+    <td width="50%">
+      <a href="https://github.com/sagarsawra/chatconnect">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sagarsawra&repo=chatconnect&theme=tokyonight&v=2" />
+      </a>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">👕 Cottees</h3>
-      <p align="center">
-        <a href="https://github.com/sagarsawra/cottees">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sagarsawra&repo=cottees&theme=tokyonight&hide_border=true&v=2" />
-        </a>
-      </p>
-      <p>
-        🛒 Full-stack eCommerce platform<br/>
-        💳 Cart, checkout & smart filtering<br/>
-        🎨 Clean UI + REST API backend<br/>
-        📈 Optimized for UX & performance
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <h3 align="center">🏥 AI Multi Hospital System</h3>
-      <p align="center">
-        <a href="https://github.com/sagarsawra/ai-hospital">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sagarsawra&repo=ai-hospital&theme=tokyonight&hide_border=true&v=2" />
-        </a>
-      </p>
-      <p align="center">
-        🤖 AI-powered hospital management system<br/>
-        📊 Multi-hospital dashboards with real-time data<br/>
-        🧠 Data-driven decision-making at its core
-      </p>
+    <td width="50%">
+      <a href="https://github.com/sagarsawra/cottees">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sagarsawra&repo=cottees&theme=tokyonight&v=2" />
+      </a>
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <a href="https://github.com/sagarsawra/ai-hospital">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sagarsawra&repo=ai-hospital&theme=tokyonight&v=2" />
+  </a>
+</p>
 
 ---
 
@@ -107,25 +74,17 @@ const sagar = {
   <img src="https://github-profile-trophy.vercel.app/?username=sagarsawra&theme=tokyonight&no-frame=true&row=1&column=6&v=2" />
 </p>
 
-<div align="center">
-
-|        🧠 DSA        |           🔍 Strength          |           📐 System Design          |
-| :------------------: | :----------------------------: | :---------------------------------: |
-| 300+ Problems Solved | Binary Search & Sliding Window | Fundamentals & Scalability Patterns |
-
-</div>
-
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sagarsawra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=2" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=sagarsawra&theme=tokyonight&hide_border=true&v=2" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sagarsawra&show_icons=true&theme=tokyonight&count_private=true&v=2" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=sagarsawra&theme=tokyonight&v=2" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarsawra&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&v=2" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarsawra&layout=compact&theme=tokyonight&v=2" />
 </p>
 
 ---
@@ -133,7 +92,7 @@ const sagar = {
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sagarsawra/sagarsawra/output/github-contribution-grid-snake.svg?v=2" />
+  <img src="https://raw.githubusercontent.com/sagarsawra/sagarsawra/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -142,4 +101,4 @@ const sagar = {
 
 * 🚀 Crack a **Top Product-Based Company**
 * 🧠 Become **AI + Backend Specialist**
-* ⚡ Build impactful real-world systems
+* ⚡ Build impactful systems
