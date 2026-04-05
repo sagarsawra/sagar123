@@ -84,15 +84,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sagarsawra&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sagarsawra&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagarsawra&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagarsawra&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarsawra&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarsawra&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
@@ -100,7 +100,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/sagarsawra/sagarsawra/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/sagarsawra/sagarsawra/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
