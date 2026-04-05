@@ -2,10 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:0077b6&height=200&section=header&text=Sagar%20Sawra&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descColor=caf0f8" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sagarsawra&label=Profile+Views&color=00b4d8&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/sagarsawra?label=Followers&style=flat-square&color=0077b6" />
-</p>
 
 </div>
 
@@ -49,14 +45,6 @@ const sagar = {
 * 🏥 **Mediconnect** → https://github.com/sagarsawra/mediconnect
 * 🎥 **Random Connect Spot** → https://github.com/sagarsawra/random-connect-spot
 
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sagarsawra&theme=tokyonight&no-frame=true&row=1&column=6&v=2" />
-</p>
 
 ---
 
