@@ -16,7 +16,7 @@ const sagar = {
   currently: "Building Honeypot — a Real-Time Omegle Clone 🎥",
   learning: ["System Design", "Scalable Backend Architectures"],
   passions: ["AI Systems", "Data Science", "Intelligent Applications"],
-  dsa: "300+ problems solved,
+  dsa: "300+ problems solved",
   mindset: "Build → Scale → Optimize 🚀",
 };
 ```
