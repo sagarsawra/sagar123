@@ -13,7 +13,7 @@
 const sagar = {
   name: "Sagar Sawra",
   role: "MERN Stack Developer + AI/ML Enthusiast",
-  currently: "Building Honeypot — a Real-Time Omegle Clone 🎥",
+  currently: "Building Leettow — a Real-Time Extension for leetcode solver 🎥",
   learning: ["System Design", "Scalable Backend Architectures"],
   passions: ["AI Systems", "Data Science", "Intelligent Applications"],
   dsa: "300+ problems solved",
